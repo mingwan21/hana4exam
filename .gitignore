@@ -26,6 +26,7 @@ ttt
 ttt*.js
 ttt*.ts
 answer
+grade.sh
 
 # Coverage directory used by tools like istanbul
 coverage
