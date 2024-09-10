@@ -11,6 +11,7 @@
 1. FEBasic 폴더 속, 본인 이름의 폴더에 있는 소스코드 작성
 1. Fork 받은 본인 github으로 push
 1. PR 보내기
+2. (주의) 본인이 Fork 받은 Repo는 public 이므로 미리 commit/push할 경우 타인이 볼 수 있음!
 
 ### test 요령 실행하여
 
